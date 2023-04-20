@@ -6,10 +6,10 @@ Códigos e trabalhos desenvolvidos na disciplina SSC0964 - Introdução à Compu
 intro-comp-mercado-financeiro/
 *    ├── notebook-aulas/
 *    │   ├── Comp_Mercado_Financeiro.ipynb
-*    │         > Introdução ao Pyhton
-*    │         > Dados do mercado financeiro
-*    │         > Análise de portifólio
-*    │         > Fronteira Eficiente de Markowitz
+*    │   │     > Introdução ao Python
+*    │   │     > Dados do mercado financeiro
+*    │   │     > Análise de portifólio
+*    │   │     > Fronteira Eficiente de Markowitz
 *    │   └── Riskfolio.ipynb
 *    ├── trabalhos/
 *    └── README.md
